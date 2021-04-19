@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.20.0",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc",
     "html-table-to-json": "^1.0.0",
     "mongoose": "^5.10.8"
   }
